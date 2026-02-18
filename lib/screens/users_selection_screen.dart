@@ -331,6 +331,7 @@ class _UsersSelectionScreenState extends State<UsersSelectionScreen> {
               child: const Text('Register new user', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
             ),
           ],
+        
         ),
       ),
     );
