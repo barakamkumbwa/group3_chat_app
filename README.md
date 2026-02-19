@@ -1,5 +1,8 @@
 # group3_chat_app
 
+Zachriss
+ZACHARIA CHRISTOPHER SUGILO NIT/BIT/2023/2296
+
 A new Flutter project.
 
 ## Getting Started
